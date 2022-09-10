@@ -1,3 +1,8 @@
+.gitproblems{
+    border: 6px solid blue;
+    background-color: cadetblue;
+}
+
 .parent {
     position: relative;
     width: 700px;
